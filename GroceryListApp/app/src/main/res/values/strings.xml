@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GroceryListApp</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="itemHintPrice">Enter Item Price</string>
+    <string name="itemQuantity">Quantity</string>
+    <string name="itemName">Item Name</string>
+    <string name="title">Add Item</string>
+</resources>
